@@ -1,0 +1,13 @@
+{application, dialyzer_error,
+             [{vsn, git},
+              {description,"dialyzer_error"},
+              {modules,[]},
+              {registered,[]},
+              {applications,[compiler,
+                             kernel,
+                             stdlib,
+                             appa,
+                             appb
+                            ]},
+              {env,[]},
+              {mod,{dialyzer_error,[]}}]}.

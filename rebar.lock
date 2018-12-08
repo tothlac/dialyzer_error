@@ -1,0 +1,8 @@
+[{<<"appa">>,
+  {git,"git@github.com:tothlac/appa.git",
+       {ref,"f9141e162f76ab986b36f5a183962a48e41bda33"}},
+  0},
+ {<<"appb">>,
+  {git,"git@github.com:tothlac/appb.git",
+       {ref,"bb6a63cb9c406c2addfd7115f045cbf31f6d3b8b"}},
+  1}].
